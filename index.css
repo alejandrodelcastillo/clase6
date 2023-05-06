@@ -1,0 +1,45 @@
+.texto-y-foto {
+    display: flex;
+    flex-direction: column;
+
+}
+.texto0 {
+    display: flex;
+    background-color: crimson;
+    padding: 10px;
+    font-size: 5rem;
+    justify-content: center;
+    
+}
+ul {
+    display: flex;
+    justify-content: center;
+    
+}
+li {
+    background-color: lightcoral;
+    padding: 10px;
+    
+}
+
+.texto-y-foto .texto {
+    background-color: rgb(28, 139, 0);
+    font-size: 3rem;
+    margin-left: 50px;
+    padding: 1em;
+
+}
+.texto-y-foto .texto2 {
+    background-color: rgb(139, 0, 127);
+    font-size: 3rem;
+    
+}
+.texto-y-foto .img-tucuman{
+    font-size: 3rem;
+}
+.texto-y-foto .img-tucuman {
+    width: 5rem;
+}
+
+
+
